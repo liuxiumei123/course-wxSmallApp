@@ -8,7 +8,7 @@
 
 【本节主要内容是介绍什么是微信小程序，以及微信开发者工具的使用】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF) (/Topics/04. Stylus/VIDEOS.md)
 
 ### [02. 微信小程序框架————配置(json)](*)
 
