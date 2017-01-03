@@ -57,9 +57,95 @@
 
 ##第二章 微信小程序组件
 
-### [01. 微信小程序————视图容器](*)
+### [01. 微信小程序组件————视图容器](*)
 
-【本节主要内容是微信小程序的视图容器 <view></view>、<scroll-view></scroll-view>、<swiper></swiper>】
+【本节主要内容是微信小程序组件的视图容器 &lt;view>&lt;/view>、&lt;scroll-view>&lt;/scroll-view>、&lt;swiper>&lt;/swiper>】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [02. 微信小程序组件————基础内容](*)
+
+【本节主要内容是微信小程序组件的基础内容 &lt;text>&lt;/text>、&lt;icon/>、&lt;progress/>】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [03. 微信小程序组件————页面链接](*)
+
+【本节主要内容是微信小程序组件的页面链接 &lt;navigator>&lt;/navigator>】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [04. 微信小程序组件————表单1](*)
+
+【本节主要内容是微信小程序组件的部分表单 button、lable、checkbox、radio、switch、slider】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+###[05. 微信小程序组件————表单2](*)
+
+【本节主要内容是微信小程序组件的部分表单 textarea、input、picker、picker-view、form】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+###[06. 微信小程序组件————图片/音频](*)
+
+【本节主要内容是微信小程序组件的图片 image、音频 audio 及音频的API】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+###[07. 微信小程序组件————画布](*)
+
+【本节主要内容是微信小程序组件的画布 canvas 及画布的API】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+##第三章 微信小程序接口API
+
+### [01. 微信小程序API————登录、用户信息、网络请求](*)
+
+【本节主要内容是微信小程序的 登录接口 wx.login()、获取用户信息接口 wx.getUserInfo()、网络请求接口 wx.request()】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [02. 微信小程序API————设备](*)
+
+【本节主要内容是微信小程序的 获取手机网络状态接口 wx.getNetworkType()、手机系统信息接口 wx.getSystemInfo()、扫码接口 wx.scanCode()】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [03. 微信小程序API————界面1](*)
+
+【本节主要内容是微信小程序的部分界面接口——导航栏标题、导航栏加载动画、页面跳转、下拉刷新、键盘收起】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [04. 微信小程序API————界面2](*)
+
+【本节主要内容是微信小程序的部分界面接口——消息提示框、模态弹窗、操作菜单】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [05. 微信小程序API————界面3](*)
+
+【本节主要内容是微信小程序的部分界面接口——创建动画 wx.createAnimation()】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [06. 微信小程序API————数据缓存](*)
+
+【本节主要内容是微信小程序的数据缓存接口——同步存储数据、同步读取数据、同步移除指定数据、同步获取数据、同步清理数据】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [07. 微信小程序API————媒体图片](*)
+
+【本节主要内容是微信小程序的媒体图片接口——从本地相册选择图片或使用相机拍照 wx.chooseImage()、预览图片 wx.previewImage()、获取图片信息 wx.getImageInfo()】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
+### [08. 微信小程序API————背景音乐](*)
+
+【本节主要内容是微信小程序的背景音乐接口——背景音乐播放、音乐播放状态、音乐播放进度、暂停音乐播放、停止音乐播放】
 
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
 
