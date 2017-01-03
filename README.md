@@ -54,6 +54,15 @@
 
 ##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
 
+
+##第二章 微信小程序组件
+
+### [01. 微信小程序————视图容器](*)
+
+【本节主要内容是微信小程序的视图容器 <view></view>、<scroll-view></scroll-view>、<swiper></swiper>】
+
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](*) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+
 ## 学习资料
 
 - [视频课程有待补充](*)
