@@ -22,37 +22,37 @@
 
 【本节主要内容是介绍微信小程序框架中有关样式设置的相关文件】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——样式.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——样式.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/WXSS) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
 
 ### [04. 微信小程序框架————逻辑(js)](*)
 
 【本节主要内容是介绍微信小程序框架中有关逻辑设置的相关文件】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——逻辑.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——逻辑.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/app-page.js) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
 
 ### [05. 微信小程序结构(wxml)————数据绑定和条件渲染](*)
 
 【本节主要内容是介绍微信小程序结构的数据绑定和条件渲染】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——数据绑定、条件渲染.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——数据绑定、条件渲染.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/WXML) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
 
 ### [06. 微信小程序结构(wxml)————列表渲染](*)
 
 【本节主要内容是介绍微信小程序结构的列表绑定】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——列表渲染.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——列表渲染.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/WXML) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
 
 ### [07. 微信小程序结构(wxml)————模板和引用](*)
 
 【本节主要内容是介绍微信小程序结构的模板和引用】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——模板、引用.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——模板、引用.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/WXML) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
 
 ### [08. 微信小程序结构(wxml)————事件](*)
 
 【本节主要内容是介绍微信小程序结构的事件】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——事件.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch01_微信小程序框架/微信小程序——事件.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/WXML) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](/Topics/04. Stylus/VIDEOS.md)
 
 
 ##第二章 微信小程序组件
@@ -61,37 +61,37 @@
 
 【本节主要内容是微信小程序组件的视图容器 &lt;view>&lt;/view>、&lt;scroll-view>&lt;/scroll-view>、&lt;swiper>&lt;/swiper>】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——视图容器.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——视图容器.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/view) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
 
 ### [02. 微信小程序组件————基础内容](*)
 
 【本节主要内容是微信小程序组件的基础内容 &lt;text>&lt;/text>、&lt;icon/>、&lt;progress/>】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——基础内容.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——基础内容.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/text) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
 
 ### [03. 微信小程序组件————页面链接](*)
 
 【本节主要内容是微信小程序组件的页面链接 &lt;navigator>&lt;/navigator>】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——页面链接.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——页面链接.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/navigator) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
 
 ### [04. 微信小程序组件————表单1](*)
 
 【本节主要内容是微信小程序组件的部分表单 button、lable、checkbox、radio、switch、slider】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——表单1.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——表单1.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/button) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
 
 ###[05. 微信小程序组件————表单2](*)
 
 【本节主要内容是微信小程序组件的部分表单 textarea、input、picker、picker-view、form】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——表单2.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——表单2.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/button) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
 
 ###[06. 微信小程序组件————图片/音频](*)
 
 【本节主要内容是微信小程序组件的图片 image、音频 audio 及音频的API】
 
-##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——图片、音频.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](/Topics/04. Stylus/demos) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
+##### [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/presentation.png" height="15" />Slides](https://github.com/liuxiumei123/course-wxSmallApp/blob/master/Ch02_微信小程序组件/微信小程序——图片、音频.pptx) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/image) /[<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/code.png" height="15"> Demos](https://github.com/liuxiumei123/course-wxSmallApp/tree/master/微信小程序demo/audio) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/homework.png" height="15">Tasks](/Topics/04. Stylus/homework) / [<img src="https://raw.githubusercontent.com/TelerikAcademy/Common/master/icons/video.png" height="13"> Videos](https://pan.baidu.com/s/1dE35odF)
 
 ###[07. 微信小程序组件————视频](*)
 
