@@ -1,0 +1,3 @@
+<!--smile.wxml -->
+<canvas canvas-id="clock" style="height:750rpx;width:750rpx;background-color:yellow;" />
+

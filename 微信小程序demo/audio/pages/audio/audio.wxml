@@ -1,0 +1,25 @@
+<view class="page">
+  <view class="page__hd">
+    <text class="page__title">audio</text>
+    <text class="page__desc">音频</text>
+  </view>
+  <view class="page__bd">
+    <view class="section section_gap" style="text-align: center;">
+      <audio id="myAudio" src="{{current.src}}" poster="{{current.poster}}" name="{{current.name}}" author="{{current.author}}" controls></audio>
+    </view>
+  </view>
+  <button type="primary" bindtap="audioPlay">播放</button>
+  <button type="primary" bindtap="audioPause">暂停</button>
+  <button type="primary" bindtap="audio14">设置当前播放时间为14秒</button>
+  <button type="primary" bindtap="audioStart">回到开头</button>
+
+
+  <view class="section section_gap" style="text-align: center;margin-top:20px;">
+    <audio id="myAudio1" src="{{current1.src}}" poster="{{current1.poster}}" name="{{current1.name}}" author="{{current1.author}}"  controls
+    bindplay="playOn" bindpause="pauseOn"  bindender="endOn"></audio>
+  </view>
+  <button type="primary" bindtap="audioPlay1">播放</button>
+  <button type="primary" bindtap="audioPause1">暂停</button>
+  <button type="primary" bindtap="audio35">设置当前播放时间为30秒</button>
+  <button type="primary" bindtap="audioStart1">回到开头</button>
+</view>

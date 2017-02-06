@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "pages/video/video"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "yellow",
+    "navigationBarTitleText": "微信小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true
+}

@@ -1,0 +1,23 @@
+<view>
+  <view wx:for="{{array}}" class="box">
+    {{index}}+{{item}}
+  </view>
+</view>
+
+
+<view class="box">
+  <view wx:for="{{array}}" wx:for-index="key" wx:for-item="value" class="box">
+    {{key}}+{{value}}
+  </view>
+</view>
+
+
+
+<block wx:for="{{array}}" wx:for-index="key" wx:for-item="value">
+  <view class="box">
+    {{key}}
+  </view>
+  <view class="box">
+    {{value}}
+  </view>
+</block>

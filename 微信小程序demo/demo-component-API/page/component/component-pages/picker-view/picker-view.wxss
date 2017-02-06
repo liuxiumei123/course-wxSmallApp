@@ -1,0 +1,4 @@
+/* page/component/component-pages/picker-view/picker-view.wxss */
+.section{
+text-align: center;
+}

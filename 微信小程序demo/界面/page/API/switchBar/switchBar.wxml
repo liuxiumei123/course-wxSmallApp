@@ -1,0 +1,11 @@
+<import src="../common/header.wxml" />
+<import src="../common/footer.wxml" />
+<view class="container">
+  <template is="header" data="{{title: 'switchBar'}}" />
+  <view class="page-body">
+    <view class="page-body-wrapper">
+      <text>我是在tarBar设置的页面</text>
+    </view>
+  </view>
+  <template is="footer" />
+</view>

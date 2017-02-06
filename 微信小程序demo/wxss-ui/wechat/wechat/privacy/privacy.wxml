@@ -1,0 +1,57 @@
+<view class="page">
+  <view class="page__bd">
+    <view class="weui-cells__title weui-padtop">通讯录</view>
+    <view class="weui-cells weui-cells_after-title ">
+      <view class="weui-cell">
+        <view class="weui-cell__bd">加我为朋友时需要验证</view>
+        <view class="weui-cell__ft ">
+          <switch />
+        </view>
+      </view>
+    </view>
+    <view class="weui-cells weui-cells_after-title weui-padtop">
+      <view class="weui-cell">
+        <view class="weui-cell__bd">通过微信号搜索到我</view>
+        <view class="weui-cell__ft ">
+          <switch checked/>
+        </view>
+      </view>
+    </view>
+    <view class="weui-cells weui-cells_after-title weui-padtop">
+      <view class="weui-cell">
+        <view class="weui-cell__bd">通过微信号搜索到我</view>
+        <view class="weui-cell__ft ">
+          <switch checked/>
+        </view>
+      </view>
+    </view>
+    <view class="weui_cells_tips ">
+      关闭后, 其他用户将不能通过微信号搜索到你
+    </view>
+    <view class="weui-cells weui-cells_after-title weui-padtop">
+      <view class="weui-cell">
+        <view class="weui-cell__bd">通讯录黑名单</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access"></view>
+      </view>
+    </view>
+    <view class="weui-cells__title weui-padtop">朋友圈</view>
+    <view class="weui-cells weui-cells_after-title ">
+      <view class="weui-cell">
+        <view class="weui-cell__bd">不让他(她)看我的朋友圈</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access"></view>
+      </view>
+      <view class="weui-cell">
+        <view class="weui-cell__bd">不看他(她)看的朋友圈</view>
+        <view class="weui-cell__ft weui-cell__ft_in-access"></view>
+      </view>
+    </view>
+    <view class="weui-cells weui-cells_after-title weui-padtop">
+      <view class="weui-cell">
+        <view class="weui-cell__bd">允许陌生人查看十张照片</view>
+        <view class="weui-cell__ft ">
+          <switch checked/>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>

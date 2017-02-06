@@ -1,0 +1,6 @@
+/* page/component/component-pages/switch/switch.wxss */
+.body-text{
+    padding-left:10px;
+    font-size: 40px;
+    color: red;
+}

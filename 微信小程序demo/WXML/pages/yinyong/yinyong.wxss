@@ -1,0 +1,4 @@
+/**shijian.wxss**/
+.box{
+  margin:20px;
+}

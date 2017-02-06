@@ -1,0 +1,31 @@
+{
+  "pages": [
+    "canvas/xianxing/xianxing",
+    "canvas/yuanxing/yuanxing",
+    "canvas/circle/circle"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#f00",
+    "list": [
+      {
+        "pagePath": "canvas/xianxing/xianxing",
+        "text": "线性"
+      },
+      {
+        "pagePath":  "canvas/yuanxing/yuanxing",
+        "text": "圆形"
+      },
+      {
+        "pagePath": "canvas/circle/circle",
+        "text": "circle"
+      }
+    ]
+  }
+}

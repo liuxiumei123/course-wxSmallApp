@@ -1,0 +1,11 @@
+{
+  "pages":[
+    "canvas/Coordinates/Coordinates"
+  ],
+  "window":{
+    "backgroundTextStyle":"light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black"
+  }
+}

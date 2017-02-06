@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/text/text",
+    "pages/icon/icon",
+    "pages/progress/progress"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "yellow",
+    "navigationBarTitleText": "微信小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "gray",
+    "selectedColor": "red",
+    "backgroundColor": "white",
+    "list": [
+      {
+        "pagePath": "pages/text/text",
+        "text": "text",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home_hover.png"
+      },
+      {
+        "pagePath": "pages/icon/icon",
+        "text": "icon",
+        "iconPath": "images/question.png",
+        "selectedIconPath": "images/question_hover.png"
+      },
+      {
+        "pagePath": "pages/progress/progress",
+        "text": "progress",
+        "iconPath": "images/mytb.png",
+        "selectedIconPath": "images/mytb_hover.png"
+      }
+    ]
+  },
+  "debug": true
+}

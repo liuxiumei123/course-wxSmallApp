@@ -1,0 +1,21 @@
+
+
+.weui-cell-text text {
+  display: block;
+  font-size: 16px;
+  font-family: "微软雅黑";
+}
+.weui-padtop{
+  margin-top: 50rpx;
+}
+.weui-padlr{
+ margin: 0 15rpx;
+ margin-top: 50rpx;
+}
+.weui_cells_tips{
+   margin-top: 10rpx;
+    color: #888;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-size: 14px;
+}

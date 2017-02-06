@@ -1,0 +1,23 @@
+
+<!--算数运算-->
+<view class="box">
+  {{3+5}}
+</view>
+<view class="box">
+  {{flag}}
+</view>
+<!--三元运算-->
+<view hidden="{{flag ? true : false}}" class="box"> Hidden </view>
+
+<!--逻辑判断-->
+<view wx:if="{{length > 5}}" class="box">123456 </view>
+
+<!--block标签-->
+<block wx:if="{{length > 5}}" class="box">
+  <view class="box">
+    <text>你吃了吗</text>
+  </view>
+  <view class="box">
+    <text>你好吗</text>
+  </view>
+</block>

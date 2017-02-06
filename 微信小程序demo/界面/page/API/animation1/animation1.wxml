@@ -1,0 +1,25 @@
+<import src="../common/header.wxml" />
+<import src="../common/footer.wxml" />
+<view class="container">
+  <template is="header" data="{{title: 'createAnimation1'}}" />
+  <view class="page-body">
+    <view class="page-body-wrapper">
+      <view class="animation-element-wrapper">
+        <view class="animation-element" animation="{{animation}}"></view>
+      </view>
+      <view class="animation-buttons" scroll-y="true">
+        <button class="animation-button" bindtap="opacity">透明度</button>
+        <button class="animation-button" bindtap="backgroundColor"> 背景色</button>
+        <button class="animation-button" bindtap="width">宽度</button>
+        <button class="animation-button" bindtap="height">高度</button>
+        <!-需要定位--->
+        <button class="animation-button" bindtap="top">top</button>
+        <button class="animation-button" bindtap="left">left</button>
+        <button class="animation-button" bindtap="bottom">bottom</button>
+        <button class="animation-button" bindtap="right">right</button>
+        <button class="animation-button-reset" bindtap="reset">还原</button>
+      </view>
+    </view>
+  </view>
+  <template is="footer" />
+</view>

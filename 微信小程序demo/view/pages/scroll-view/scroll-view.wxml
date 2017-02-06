@@ -1,0 +1,18 @@
+<view class="text">
+  <text>水平滚动</text>
+</view>
+<scroll-view class="scroll-view_X" scroll-x="true" style="width: 100%">
+  <view id="green" class="scroll-view-item_X bc_green"></view>
+  <view id="red" class="scroll-view-item_X bc_red"></view>
+  <view id="yellow" class="scroll-view-item_X bc_yellow"></view>
+  <view id="blue" class="scroll-view-item_X bc_blue"></view>
+</scroll-view>
+<view class="text">
+  <text>垂直滚动</text>
+</view>
+<scroll-view class="scroll-view_Y" scroll-y="true" scroll-into-view="red" style="height:200px">
+  <view id="green" class="scroll-view-item_Y bc_green"></view>
+  <view id="red" class="scroll-view-item_Y bc_red"></view>
+  <view id="yellow" class="scroll-view-item_Y bc_yellow"></view>
+  <view id="blue" class="scroll-view-item_Y bc_blue"></view>
+</scroll-view>

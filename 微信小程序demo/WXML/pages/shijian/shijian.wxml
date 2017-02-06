@@ -1,0 +1,19 @@
+<view id="tapTest" data-hi="WeChat" data-me="hello world" bindtap="tapName" class="box">
+  Click me! {{xianshi}}
+</view>
+<view id="outter" bindtap="handleTap1" class="box">
+  outer view
+  <view id="middle" catchtap="handleTap2" class="box">
+    middle view
+    <view id="inner" bindtap="handleTap3" class="box">
+      inner view
+    </view>
+  </view>
+</view>
+
+   <input type="number" placeholder="这是一个数字输入框" bindinput="tap" class="input"/>
+
+   
+<template name="item">
+  <text>{{text}}</text>
+</template> 

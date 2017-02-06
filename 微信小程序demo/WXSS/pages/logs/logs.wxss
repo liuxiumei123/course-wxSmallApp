@@ -1,0 +1,16 @@
+ /*@import "../common.wxss";*/
+.log-list {
+  display: flex;
+  flex-direction: column;
+  padding: 40rpx;
+}
+.log-item {
+  margin: 10rpx;
+}
+.border{
+  text-align: center;
+  border:1px solid red;
+  width:100%;
+  padding: 10rpx;
+  height:100rpx;
+}

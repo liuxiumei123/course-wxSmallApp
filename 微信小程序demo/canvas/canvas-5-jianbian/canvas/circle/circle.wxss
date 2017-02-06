@@ -1,0 +1,18 @@
+/* smile.wxss */
+
+#circle {
+  position: relative;
+  top: 10px;
+  left:50px;
+  animation: demo 1s ease-in 1s infinite alternate;
+}
+
+@keyframes demo {
+  from {
+    top: 10px;
+  }
+
+  to {
+    top: 300px;
+  }
+}

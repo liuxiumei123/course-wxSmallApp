@@ -1,0 +1,36 @@
+.text{
+  font-size: 20px;
+  margin-bottom:20rpx;
+}
+.scroll-view_X {
+  white-space:nowrap;/*关键:强制不换行*/
+}
+
+.scroll-view-item_X {
+  display: inline-block;/*关键：转变成 行块级*/
+  height: 200px;
+  width: 100%;
+}
+
+.bc_green {
+  background: green;
+}
+
+.bc_red {
+  background: red;
+}
+
+.bc_yellow {
+  background: yellow;
+}
+
+.bc_blue {
+  background: blue;
+}
+.scroll-view_Y {
+  width: 100%;
+}
+.scroll-view-item_Y {
+  height: 200px;
+  width: 100%;
+}

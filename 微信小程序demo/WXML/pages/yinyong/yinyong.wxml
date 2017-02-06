@@ -1,0 +1,3 @@
+<include src="../shijian/shijian.wxml"/>
+<import src="../shijian/shijian.wxml"/>
+<template is="item" data="{{text: '我是模板引用进来的'}}"/>

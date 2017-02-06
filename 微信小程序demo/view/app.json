@@ -1,0 +1,39 @@
+{
+  "pages": [
+    "pages/view/view",
+    "pages/scroll-view/scroll-view",
+    "pages/swiper/swiper"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "yellow",
+    "navigationBarTitleText": "微信小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "gray",
+    "selectedColor": "red",
+    "backgroundColor": "white",
+    "list": [
+      {
+        "pagePath": "pages/view/view",
+        "text": "view",
+        "iconPath": "images/home.png",
+        "selectedIconPath": "images/home_hover.png"
+      },
+      {
+        "pagePath": "pages/scroll-view/scroll-view",
+        "text": "scroll-view",
+        "iconPath": "images/question.png",
+        "selectedIconPath": "images/question_hover.png"
+      },
+      {
+        "pagePath": "pages/swiper/swiper",
+        "text": "swiper",
+        "iconPath": "images/mytb.png",
+        "selectedIconPath": "images/mytb_hover.png"
+      }
+    ]
+  },
+  "debug": true
+}

@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<canvas canvas-id="myCanvas"
+  style="margin: 5px; border:2px solid #d3d3d3;height:1000rpx;"
+  bindtouchstart="start"
+  bindtouchmove="move"
+  bindtouchend="end"/>

@@ -1,0 +1,47 @@
+{
+  "pages": [
+    "pages/data/data",
+    "pages/for/for",
+    "pages/shijian/shijian",
+    "pages/yinyong/yinyong"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "black",
+    "selectedColor": "blue",
+    "backgroundColor": "#ffffff",
+    "borderStyle": "black",
+    "list": [
+      {
+        "pagePath": "pages/data/data",
+        "text": "条件渲染",
+        "iconPath": "images/burger.png",
+        "selectedIconPath": "images/burger_focus.png"
+      },
+      {
+        "pagePath": "pages/for/for",
+        "text": "列表渲染",
+        "iconPath": "images/discovery.png",
+        "selectedIconPath": "images/discovery_focus.png"
+      },
+      {
+        "pagePath": "pages/shijian/shijian",
+        "text": "事件",
+        "iconPath": "images/index.png",
+        "selectedIconPath": "images/index_focus.png"
+      },
+      {
+        "pagePath": "pages/yinyong/yinyong",
+        "text": "引用",
+        "iconPath": "images/discovery.png",
+        "selectedIconPath": "images/discovery_focus.png"
+      }
+    ]
+  },
+  "debug":true
+}

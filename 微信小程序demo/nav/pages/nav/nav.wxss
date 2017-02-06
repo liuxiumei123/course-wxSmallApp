@@ -1,0 +1,35 @@
+.top-tab {
+  width: 750rpx;
+  height: 100rpx;
+  background: #298de5;
+  color: #8ccefd;
+  font-size: 38rpx;
+  line-height: 100rpx;
+  box-shadow: 0 2px 2px #bebebe;
+  display: flex;
+  justify-content: space-around;
+}
+
+.toptab {
+  text-align: center;
+  width: 187.5rpx;
+}
+
+.toptab.active {
+  color: #fff;
+  border-bottom: solid 2px #fff;
+}
+
+.showText {
+  margin-top: 200rpx;
+  text-align: center;
+}
+
+.showText text {
+  display: block;
+  width: 500rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  color: #fff;
+  background: #298de5;
+}

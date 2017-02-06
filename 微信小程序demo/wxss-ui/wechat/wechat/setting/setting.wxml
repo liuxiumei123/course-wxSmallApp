@@ -1,0 +1,17 @@
+<view class="page">
+  <view class="page__bd">
+     <block wx:for="{{[array1,array2,array3]}}" wx:for-item="num" wx:for-index="index1">
+      <view class="weui-cells weui-cells_after-title weui-padtop">
+        <block wx:for="{{num}}" wx:for-index="index2">
+          <navigator url="{{item.url}}" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+            <view class="weui-cell__bd"  bindtap="pickphoto">{{item.left}}</view>
+            <view class="weui-cell__ft weui-cell__ft_in-access" >
+              {{item.right}}
+            </view>
+          </navigator>
+        </block>
+      </view>
+    </block>
+    <button type="warn" class=" weui-padlr">退出登录</button>
+  </view>
+</view>

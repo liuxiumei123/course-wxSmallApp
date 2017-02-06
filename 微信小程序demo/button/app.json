@@ -1,0 +1,23 @@
+{
+  "pages": [
+    "page/component/index",
+    "page/component/component-pages/button/button",
+    "page/component/component-pages/label/label",
+    "page/component/component-pages/checkbox/checkbox",
+    "page/component/component-pages/radio/radio",
+    "page/component/component-pages/switch/switch",
+    "page/component/component-pages/slider/slider",
+    "page/component/component-pages/textarea/textarea",
+    "page/component/component-pages/input/input",
+    "page/component/component-pages/picker/picker",
+    "page/component/component-pages/picker-view/picker-view",
+    "page/component/component-pages/form/form"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "演示",
+    "navigationBarBackgroundColor": "#fbf9fe",
+    "backgroundColor": "#fbf9fe"
+  },
+  "debug": true
+}

@@ -1,0 +1,3 @@
+
+<!--smile.wxml -->
+<canvas canvas-id="circle" id="circle" style="height:500px;width:500px;" />

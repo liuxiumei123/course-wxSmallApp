@@ -1,0 +1,9 @@
+.section {
+  margin: 10px;
+  border: 1px solid sandybrown;
+  margin-bottom: 80rpx;
+}
+
+.other-textarea-placeholder {
+  color: blue;
+}

@@ -1,0 +1,36 @@
+{
+  "pages": [
+    "canvas/translate/translate",
+    "canvas/scale/scale",
+    "canvas/rotate/rotate",
+    "canvas/save/save"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#000",
+    "selectedColor": "#f00",
+    "list": [
+      {
+        "pagePath": "canvas/translate/translate",
+        "text": "translate"
+      },
+      {
+        "pagePath": "canvas/scale/scale",
+        "text": "scale"
+      },
+      {
+        "pagePath": "canvas/rotate/rotate",
+        "text": "rotate"
+      },
+      {
+        "pagePath": "canvas/save/save",
+        "text": "save"
+      }
+    ]
+  }
+}

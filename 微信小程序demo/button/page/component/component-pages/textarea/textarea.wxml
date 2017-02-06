@@ -1,0 +1,78 @@
+<view class="page">
+  <view class="page__hd">
+    <text class="page__title">textarea</text>
+    <text class="page__desc">多行文本</text>
+  </view>
+  <view class="page__bd">
+
+    <!--value-->
+    <view class="section">
+      <textarea value="value123" cursor-spacing="10" />
+    </view>
+
+    <!--placeholder：placeholder-class="textarea-placeholder"  默认样式-->
+    <view class="section">
+      <textarea placeholder="placeholder123" />
+    </view>
+
+    <!--placeholder-style:相当于内联样式  比placeholder-class的权重高-->
+    <view class="section">
+      <textarea placeholder="placeholder颜色是红色的" placeholder-style="color:red;" />
+    </view>
+
+    <!--placeholder-class-->
+    <view class="section">
+      <textarea placeholder="textarea-placeholder" placeholder-class="other-textarea-placeholder" />
+    </view>
+
+    <!--auto-height-->
+    <view class="section">
+      <textarea bindblur="bindTextAreaBlur" auto-height placeholder="自动变高" />
+    </view>
+
+    <!--disabled:只读-->
+    <view class="section">
+      <textarea placeholder="我是只读的，不可以修改" disabled placeholder-style="color:red;" />
+    </view>
+
+    <!--maxlength: 默认为140-->
+    <view class="section">
+      <textarea placeholder="输入最大程度为100" maxlength="100" />
+    </view>
+
+    
+
+    <!--focus-->
+    <view class="section">
+      <textarea placeholder="这个只有在按钮点击的时候才聚焦" focus="{{focus}}" />
+      <view class="btn-area">
+        <button bindtap="bindButtonTap">使得输入框获取焦点</button>
+      </view>
+    </view>
+
+    <!--bindblur：失去焦点-->
+    <view class="section">
+      <textarea bindblur="bindTextAreaBlur"  value="失去焦点" />
+    </view>
+
+    <!--bindfocus：获得焦点-->
+    <view class="section">
+      <textarea bindfocus="bindFocus"  value="获得焦点" />
+    </view>
+
+     <!--bindlinechange：行数变化  刷新页面就会变化  从0变成了1  placeholder也占一行-->
+    <view class="section">
+      <textarea bindlinechange="bindLineChange"  value="行数变化" />
+    </view>
+
+     <!--bindinput：当键盘输入时，触发 input 事件-->
+    <view class="section">
+      <textarea bindinput="bindinput"  value="bindinput" />
+    </view>
+
+     <!--bindconfirm：没反应-->
+    <view class="section">
+      <textarea bindconfirm="bindconfirm"  value="bindconfirm" />
+    </view>
+  </view>
+</view>

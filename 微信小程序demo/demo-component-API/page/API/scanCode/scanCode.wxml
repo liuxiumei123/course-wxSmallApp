@@ -1,0 +1,14 @@
+<import src="../common/header.wxml" />
+<import src="../common/footer.wxml" />
+
+<view class="container">
+  <template is="header" data="{{title: 'scanCode'}}"/>
+
+  <view class="page-body buttonstyle">
+   <button type="primary" bindtap="scanCode"> 扫码 </button>
+  </view>
+
+  <template is="footer" />
+</view>
+
+

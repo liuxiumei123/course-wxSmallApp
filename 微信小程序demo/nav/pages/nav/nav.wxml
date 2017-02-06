@@ -1,0 +1,17 @@
+<view class="top-tab">
+  <view class="toptab {{currentNavtab==idx ? 'active' : ''}}" wx:for="{{navTab}}" wx:for-index="idx" wx:for-item="itemName" data-idx="{{idx}}" bindtap="switchTab">
+    {{itemName}}
+  </view>
+</view>
+<view hidden="{{currentNavtab!=0}}" class="showText">
+  <text>首页</text>
+</view>
+<view hidden="{{currentNavtab!=1}}" class="showText">
+  <text>产品</text>
+</view>
+<view hidden="{{currentNavtab!=2}}" class="showText">
+  <text>联系</text>
+</view>
+<view hidden="{{currentNavtab!=3}}" class="showText">
+  <text>收藏</text>
+</view>

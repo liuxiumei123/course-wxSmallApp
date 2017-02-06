@@ -1,0 +1,30 @@
+<view class="page">
+  <view class="page__bd">
+    <view class="weui-cells weui-cells_after-title">
+      <navigator url="../list/list" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+        <view class="weui-cell__hd">
+          <image src="../../images/bear.jpg" style="margin-right: 5px;vertical-align: middle;width:50px; height: 50px;"></image>
+        </view>
+        <view class="weui-cell__bd weui-cell-text">
+          <text>bear</text>
+          <text>微信号：bear</text>
+        </view>
+        <view class="weui-cell__ft weui-cell__ft_in-access">
+          <image src="../../images/download.png" style="margin-right: 5px;vertical-align: middle;width:20px; height: 20px;"></image>
+        </view>
+      </navigator>
+    </view>
+    <block wx:for="{{[array1,array2,array3]}}" wx:for-item="num">
+      <view class=" weui-cells weui-cells_after-title weui-padtop ">
+        <block wx:for="{{num}}">
+          <navigator url="{{item.url}}" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+            <view class="weui-cell__hd ">
+              <image src="{{item.src}} " style="margin-right: 5px;vertical-align: middle;width:20px; height: 20px; "></image>
+            </view>
+            <view class="weui-cell__bd ">{{item.name}}</view>
+          </navigator>
+        </block>
+      </view>
+    </block>
+  </view>
+</view>

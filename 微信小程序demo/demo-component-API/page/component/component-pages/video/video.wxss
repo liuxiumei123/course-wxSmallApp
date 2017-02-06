@@ -1,0 +1,4 @@
+/* page/component/component-pages/video/video.wxss */
+.distance{
+    margin-top: 20px;
+}

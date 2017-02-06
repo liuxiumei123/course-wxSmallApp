@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/navigator/navigator",
+    "pages/navigator/navigate",
+    "pages/navigator/redirect"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "yellow",
+    "navigationBarTitleText": "微信小程序",
+    "navigationBarTextStyle": "black"
+  },
+  "debug": true
+}

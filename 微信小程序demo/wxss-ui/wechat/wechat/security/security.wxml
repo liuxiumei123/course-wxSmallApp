@@ -1,0 +1,20 @@
+<view class="page">
+  <view class="page__bd">
+   
+    <block wx:for="{{[array1,array2,array3]}}" wx:for-item="num" wx:for-index="index1">
+      <view class="weui-cells weui-cells_after-title weui-padtop">
+        <block wx:for="{{num}}" wx:for-index="index2">
+          <navigator url="" class="weui-cell weui-cell_access" hover-class="weui-cell_active">
+            <view class="weui-cell__bd">{{item.left}}</view>
+            <view class="weui-cell__ft {{index1==0&&index2==0?'':'weui-cell__ft_in-access'}}">
+              {{item.right}}
+            </view>
+          </navigator>
+        </block>
+      </view>
+    </block>
+    <view class="weui_cells_tips ">
+      如果遇到帐号信息泄露, 忘记密码, 诈骗等帐号安全问题, 可前往微信安全中心。
+    </view>
+  </view>
+</view>
